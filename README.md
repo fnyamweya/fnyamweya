@@ -7,5 +7,5 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnyamweya&layout=compact&theme=prussian&hide=html&langs_count=6" />
 </a>
 <a href="https://github.com/fnyamweya">
- <img align="top" src="https://github-readme-stats.vercel.app/api?username=fnyamweya&custom_title=Mayank's%20Github%20Stats&count_private=true&show_icons=true&theme=prussian" alt="Felix's github stats"/>
+ <img align="top" src="https://github-readme-stats.vercel.app/api?username=fnyamweya&custom_title=Felix's%20Github%20Stats&count_private=true&show_icons=true&theme=prussian" alt="Felix's github stats"/>
 </a>
